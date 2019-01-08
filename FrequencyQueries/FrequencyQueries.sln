@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrequencyQueries", "FrequencyQueries\FrequencyQueries.csproj", "{18B54778-15A9-400E-AEFD-FAA0874230E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject11", "UnitTestProject11\UnitTestProject11.csproj", "{A43E0D68-CFAA-4198-B922-DFBF91410CE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18B54778-15A9-400E-AEFD-FAA0874230E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18B54778-15A9-400E-AEFD-FAA0874230E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18B54778-15A9-400E-AEFD-FAA0874230E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18B54778-15A9-400E-AEFD-FAA0874230E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A43E0D68-CFAA-4198-B922-DFBF91410CE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A43E0D68-CFAA-4198-B922-DFBF91410CE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A43E0D68-CFAA-4198-B922-DFBF91410CE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A43E0D68-CFAA-4198-B922-DFBF91410CE4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06DAA196-18AC-4AA6-9902-8B94877744A7}
+	EndGlobalSection
+EndGlobal

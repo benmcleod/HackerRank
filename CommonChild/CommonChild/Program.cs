@@ -10,6 +10,7 @@ namespace CommonChild
     {
         static void Main(string[] args)
         {
+	    //https://www.hackerrank.com/challenges/common-child/problem
             commonChild("ABCDEF", "FBDAMN");
         }
 
